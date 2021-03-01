@@ -1,4 +1,4 @@
-<h2> Hi, I'm Thiago Suzuki! <img src="https://media.giphy.com/media/zi1okPtrwHdQI/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Thiago Suzuki! <img src="https://media.giphy.com/media/dmqnEU3LCyOkM/giphy.gif" width="50"></h2>
 
 <img src="https://media.giphy.com/media/XG444KXEaA3zW/giphy.gif">
 
