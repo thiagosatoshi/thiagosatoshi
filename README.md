@@ -4,7 +4,8 @@
 
 <p>Welcome to my page! </br> My name is Thiago, and I am a Senior Software Developer at Sky and a Developer at Digital Boost.</p> 
 
-<p>I am a citizen of <img src="brazil.png" width="13"/> <img src="italy.png" width="13"/> and live in <b>England, UK</b>. 
+<p>
+    I am a citizen of <img src="brazil.png" width="13"/> <img src="italy.png" width="13"/> and I live in <b>England, UK</b>. 
 </p> 
 
 <p>Senior #SoftwareEngineer, #Blogger, MBA, entrepreneur, founder of #NinjaCode, former @Microsoft, .Net advocate, footballer, guitarist, photographer enthusiastic.</p>
