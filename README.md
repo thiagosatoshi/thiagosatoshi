@@ -4,8 +4,8 @@
 
 <p>Welcome to my page! </br> My name is Thiago, and I am a Senior Software Developer at Sky and a Developer at Digital Boost.</p> 
 
-<p>I am a citizen of <img src="https://www.flaticon.com/svg/vstatic/svg/197/197386.svg?token=exp=1614510711~hmac=098a3246ef42a4e338501cf46100d162" width="13"/>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/323/323325.svg?token=exp=1614510819~hmac=58cc1cbec8e922c078bb41ab55c67ace" width="13"/> and live in <b>England, UK</b>. </p> 
+<p>I am a citizen of <img src="brazil.png" width="13"/> <img src="italy.png" width="13"/> and live in <b>England, UK</b>. 
+</p> 
 
 <p>Senior #SoftwareEngineer, #Blogger, MBA, entrepreneur, founder of #NinjaCode, former @Microsoft, .Net advocate, footballer, guitarist, photographer enthusiastic.</p>
 
