@@ -19,15 +19,16 @@
 
 ## Skills
 
-![c#](https://img.shields.io/badge/csharp-%E2%98%85%E2%98%85%E2%98%85-lightgrey?labelColor=FCA121&logo=csharp&style=for-the-badge&logoColor=white)
-![nodejs](https://img.shields.io/badge/nodejs-%E2%98%85%E2%98%85%E2%98%85-lightgrey?labelColor=EJB150&logo=nodejs&style=for-the-badge&logoColor=white)
-![python](https://img.shields.io/badge/python-★★☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
+![c#](https://img.shields.io/badge/c-sharp-%E2%98%85%E2%98%85%E2%98%85-lightgrey?labelColor=FCA121&logo=c-sharp&style=for-the-badge&logoColor=white)
+![nodejs](https://img.shields.io/badge/node.js-%E2%98%85%E2%98%85%E2%98%85-lightgrey?labelColor=green&logo=node.js&style=for-the-badge&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-★★★-lightgrey?labelColor=FCA121&logo=typescript&style=for-the-badge&logoColor=white)
+![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
 ![bash](https://img.shields.io/badge/bash-★★☆-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)
 ![c](https://img.shields.io/badge/C-★★☆-lightgrey?labelColor=C51A4A&logo=C&style=for-the-badge&logoColor=white)
-![html5](https://img.shields.io/badge/Html5-★★☆-lightgrey?labelColor=2bbc8a&logo=Html5&style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-★★☆-lightgrey?labelColor=FCA121&logo=JavaScript&style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-★★☆-lightgrey?labelColor=E34A86&logo=SQL&style=for-the-badge&logoColor=white)
-![java](https://img.shields.io/badge/Java-★★☆-lightgrey?labelColor=C51A4A&logo=Java&style=for-the-badge&logoColor=white)
+![html5](https://img.shields.io/badge/Html5-★★★-lightgrey?labelColor=2bbc8a&logo=Html5&style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★-lightgrey?labelColor=FCA121&logo=JavaScript&style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-★★★-lightgrey?labelColor=E34A86&logo=SQL&style=for-the-badge&logoColor=white)
+![java](https://img.shields.io/badge/Java-★★★-lightgrey?labelColor=C51A4A&logo=Java&style=for-the-badge&logoColor=white)
 
 
 ## Technologies and Tools
@@ -50,7 +51,7 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
 ![MySQL](https://img.shields.io/badge/-MySQL-White?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![SASS](https://img.shields.io/badge/-SASS-430098?style=flat-square&logo=SASS)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
@@ -62,6 +63,7 @@
 ![jenkins](https://img.shields.io/badge/jenkins-lightgrey?labelColor=EJB150&logo=jenkins&style=flat-square&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat-square&logo=docker&logoColor=white)
 ![cypress](https://img.shields.io/badge/cypress-lightgrey?labelColor=EJB150&logo=cypress&style=flat-square&logoColor=white)
+![jest](https://img.shields.io/badge/-jest-White?style=flat-square&logo=jest)
 
 <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
     <a href="https://github.com/alwinw?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATALB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
