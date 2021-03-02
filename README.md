@@ -18,9 +18,9 @@
 ![Profile views](https://gpvc.arturio.dev/thiagosatoshi)
 
 ## Skills
-
-![c#](https://img.shields.io/badge/c-sharp-%E2%98%85%E2%98%85%E2%98%85-lightgrey?labelColor=FCA121&logo=c-sharp&style=for-the-badge&logoColor=white)
-![nodejs](https://img.shields.io/badge/node.js-%E2%98%85%E2%98%85%E2%98%85-lightgrey?labelColor=green&logo=node.js&style=for-the-badge&logoColor=white)
+       
+![c#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+![nodejs](https://img.shields.io/badge/node.js-★★★-lightgrey?labelColor=green&logo=node.js&style=for-the-badge&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-★★★-lightgrey?labelColor=FCA121&logo=typescript&style=for-the-badge&logoColor=white)
 ![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
 ![bash](https://img.shields.io/badge/bash-★★☆-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)
