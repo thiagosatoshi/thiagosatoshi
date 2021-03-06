@@ -27,8 +27,9 @@
 ![c](https://img.shields.io/badge/C-★★☆-lightgrey?labelColor=C51A4A&logo=C&style=for-the-badge&logoColor=white)
 ![html5](https://img.shields.io/badge/Html5-★★★-lightgrey?labelColor=2bbc8a&logo=Html5&style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★★-lightgrey?labelColor=FCA121&logo=JavaScript&style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-★★★-lightgrey?labelColor=E34A86&logo=SQL&style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-★★★-lightgrey?labelColor=E34A86&logo=mysql&style=for-the-badge&logoColor=white)
 ![java](https://img.shields.io/badge/Java-★★★-lightgrey?labelColor=C51A4A&logo=Java&style=for-the-badge&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-★★★-lightgrey?labelColor=green&logo=postgresql&style=for-the-badge&logoColor=white)
 
 
 ## Technologies and Tools
