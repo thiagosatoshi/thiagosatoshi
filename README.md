@@ -72,10 +72,10 @@
 
 ## More about me
 
-- 🔭 I’m currently working on the Sky super secret project 
+- 🔭 I’m currently working on Digital Boost to help small business get the help they need
 - 🌱 I’m currently learning about AWS
 - 👯 I’m looking to collaborate on open source projects that have great impact in society
-- 💬 Ask me about Software Development tools, processes and technics
+- 💬 Ask me about software development tools, processes and technics
 - 📫 How to reach me: on twitter: @thiagosatoshi
 - 😄 Pronouns: he/him
 
