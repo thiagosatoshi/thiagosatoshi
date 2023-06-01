@@ -73,7 +73,7 @@
 ## More about me
 
 - 🔭 I’m currently working on Digital Boost to help small business get the help they need
-- 🌱 I’m currently learning about AWS
+- 🌱 I’m currently doing a PhD
 - 👯 I’m looking to collaborate on open source projects that have great impact in society
 - 💬 Ask me about software development tools, processes and technics
 - 📫 How to reach me: on twitter: @thiagosatoshi
