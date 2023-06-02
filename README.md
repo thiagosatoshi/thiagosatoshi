@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/XG444KXEaA3zW/giphy.gif">
 
-<p>Welcome to my page! </br> My name is Thiago, and I am a CTO at Digital Boost.</p> 
+<p>Welcome to my page! </br> My name is Thiago, and I am the CTO at Digital Boost.</p> 
 
 <p>
     I am a citizen of <img src="brazil.png" width="13"/> <img src="italy.png" width="13"/> and I live in <b>England, UK</b>. 
